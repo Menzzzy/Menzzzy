@@ -1,4 +1,4 @@
-## Boas Vindas Ao Meu Perfil 👋
+[## Boas Vindas Ao Meu Perfil 👋
 
 My Name is Gabriel Tobias
 
@@ -6,3 +6,4 @@ My Name is Gabriel Tobias
 - 🤔 I’m looking for help with ... python.
 - 📫 How to reach me: ... gabrieltobias2015@gmail.com.
 - ⚡ Languages... Português (Brasil), English.
+- Currículo: (https://docs.google.com/document/d/1WfInMzPhvpzgi1ZhXNLVB-ij3XdSE20S0NAHgoWpgfQ/edit)
